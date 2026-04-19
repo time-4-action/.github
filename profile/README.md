@@ -52,7 +52,6 @@ Our platform is built on a modern, production-grade stack:
 
 | | Role | Contact |
 |---|---|---|
-| **Tine Slabe** | Director | [tine@time-4-action.com](mailto:tine@time-4-action.com) |
 | **Grega Rotar** | Lead Developer | [grega@time-4-action.com](mailto:grega@time-4-action.com) |
 
 ---
